@@ -1,0 +1,3 @@
+#para ativar a vm
+source .venv/bin/activate 
+deactivate
